@@ -1,7 +1,7 @@
 {
   "name": "zombact",
   "version": "1.0.0",
-  "description": "Running CouchDB on a Cloud9 workspace CouchDB is preinstalled in your workspace. To run CouchDB, run the following below.",
+  "description": "",
   "main": "server.js",
   "devDependencies": {
     "babel-cli": "^6.7.7",
@@ -11,8 +11,7 @@
     "nodemon": "^1.9.2"
   },
   "scripts": {
-    "start": "nodemon --watch lib --exec 'babel lib -d dist'",
-    "test": "echo \"Error: no test specified\" && exit 1"
+
   },
   "repository": {
     "type": "git",
